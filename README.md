@@ -9,10 +9,11 @@ Os alunos deverão desenvolver em grupo um relatório técnico que compare o des
 ### Instruções
 
 1. Todos os grupos devem colocar **o nome completo dos integrantes e seus respectivos RMs na capa do relatório**. Caso essa informação não esteja presente, a entrega não será considerada.
-2. Implementar e treinar um modelo CNN 1D sobre o sinal bruto.
-3. Converter os sinais em espectrogramas e treinar um modelo CNN 2D.
-4. Avaliar ambos os modelos com métricas como acurácia, matriz de confusão e classification report.
-5. Documentar o tempo de treino e de inferência de cada abordagem.
+2. A entrega deve ser feita exclusivamente pelo representante do grupo.
+3. Implementar e treinar um modelo CNN 1D sobre o sinal bruto.
+4. Converter os sinais em espectrogramas e treinar um modelo CNN 2D.
+5. Avaliar ambos os modelos com métricas como acurácia, matriz de confusão e classification report.
+6. Documentar o tempo de treino e de inferência de cada abordagem.
 
 ### Entregáveis
 
